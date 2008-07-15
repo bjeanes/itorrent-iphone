@@ -1,0 +1,300 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* iTorrentAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 517}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	1D3623250D0F684500981E51 /* iTorrentAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 644}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 656}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* iTorrent */ = {
+		activeExec = 0;
+		executables = (
+			6C82B3840E2B8147004E0416 /* iTorrent */,
+		);
+	};
+	28C286DF0D94DF7D0034E888 /* RootViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 494}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 234}";
+		};
+	};
+	28C286E00D94DF7D0034E888 /* RootViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 1722}}";
+			sepNavSelRange = "{988, 0}";
+			sepNavVisRange = "{400, 1144}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 6C82B3840E2B8147004E0416 /* iTorrent */;
+		activeSDKPreference = iphonesimulator2.0;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* iTorrent */;
+		codeSenseManager = 6C82B3900E2B8166004E0416 /* Code sense */;
+		executables = (
+			6C82B3840E2B8147004E0416 /* iTorrent */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					769,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 237808942;
+			PBXWorkspaceStateSaveDate = 237808942;
+		};
+		perUserProjectItems = {
+			6C82B39D0E2B8703004E0416 = 6C82B39D0E2B8703004E0416 /* PBXTextBookmark */;
+			6CB53F630E2B915D001EC524 = 6CB53F630E2B915D001EC524 /* PBXTextBookmark */;
+			6CB53F640E2B915D001EC524 = 6CB53F640E2B915D001EC524 /* PBXTextBookmark */;
+			6CB53F650E2B915D001EC524 = 6CB53F650E2B915D001EC524 /* PlistBookmark */;
+			6CB53F670E2B915D001EC524 = 6CB53F670E2B915D001EC524 /* PBXTextBookmark */;
+			6CB53F680E2B915D001EC524 = 6CB53F680E2B915D001EC524 /* PBXTextBookmark */;
+			6CB53F690E2B915D001EC524 = 6CB53F690E2B915D001EC524 /* PBXTextBookmark */;
+			6CB53F6B0E2B915D001EC524 = 6CB53F6B0E2B915D001EC524 /* PlistBookmark */;
+			6CB53F850E2B93DD001EC524 = 6CB53F850E2B93DD001EC524 /* PBXTextBookmark */;
+			6CB53F860E2B93DD001EC524 = 6CB53F860E2B93DD001EC524 /* PBXTextBookmark */;
+			6CB53F880E2B93DD001EC524 = 6CB53F880E2B93DD001EC524 /* PBXTextBookmark */;
+			6CB53F890E2B93DD001EC524 = 6CB53F890E2B93DD001EC524 /* PBXTextBookmark */;
+			6CB53F8A0E2B93DD001EC524 = 6CB53F8A0E2B93DD001EC524 /* PBXTextBookmark */;
+			6CB53F9F0E2B943D001EC524 = 6CB53F9F0E2B943D001EC524 /* PBXTextBookmark */;
+			6CB53FA90E2B98B1001EC524 = 6CB53FA90E2B98B1001EC524 /* PBXTextBookmark */;
+			6CF886690E2CAD36008C0657 /* PBXTextBookmark */ = 6CF886690E2CAD36008C0657 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 6C82B38F0E2B8166004E0416 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	29B97316FDCFA39411CA2CEA /* main.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {947, 517}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 345}";
+		};
+	};
+	6C82B3840E2B8147004E0416 /* iTorrent */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = iTorrent;
+		savedGlobals = {
+		};
+		sourceDirectories = (
+		);
+	};
+	6C82B38F0E2B8166004E0416 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+		};
+	};
+	6C82B3900E2B8166004E0416 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	6C82B39D0E2B8703004E0416 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	6CB53F630E2B915D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iTorrentAppDelegate.m */;
+		name = "iTorrentAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	6CB53F640E2B915D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iTorrentAppDelegate.h */;
+		name = "iTorrentAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	6CB53F650E2B915D001EC524 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/bjeanes/Projects/iPhone Apps/iTorrent/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6CB53F670E2B915D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 859;
+		vrLoc = 141;
+	};
+	6CB53F680E2B915D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* iTorrentAppDelegate.h */;
+		name = "iTorrentAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	6CB53F690E2B915D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* iTorrentAppDelegate.m */;
+		name = "iTorrentAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 656;
+		vrLoc = 0;
+	};
+	6CB53F6B0E2B915D001EC524 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+			CFBundleExecutable,
+		);
+		name = "/Users/bjeanes/Projects/iPhone Apps/iTorrent/Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	6CB53F850E2B93DD001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	6CB53F860E2B93DD001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	6CB53F880E2B93DD001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 29B97316FDCFA39411CA2CEA /* main.m */;
+		name = "main.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 345;
+		vrLoc = 0;
+	};
+	6CB53F890E2B93DD001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 28";
+		rLen = 0;
+		rLoc = 584;
+		rType = 0;
+		vrLen = 834;
+		vrLoc = 0;
+	};
+	6CB53F8A0E2B93DD001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286DF0D94DF7D0034E888 /* RootViewController.h */;
+		name = "RootViewController.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 234;
+		vrLoc = 0;
+	};
+	6CB53F9F0E2B943D001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		comments = "error: initializer element is not constant";
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		rLen = 1;
+		rLoc = 33;
+		rType = 1;
+	};
+	6CB53FA90E2B98B1001EC524 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 39";
+		rLen = 0;
+		rLoc = 988;
+		rType = 0;
+		vrLen = 1144;
+		vrLoc = 400;
+	};
+	6CF886690E2CAD36008C0657 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28C286E00D94DF7D0034E888 /* RootViewController.m */;
+		name = "RootViewController.m: 39";
+		rLen = 0;
+		rLoc = 988;
+		rType = 0;
+		vrLen = 1144;
+		vrLoc = 400;
+	};
+}
