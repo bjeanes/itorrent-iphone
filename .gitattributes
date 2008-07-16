@@ -1,0 +1,1 @@
+*.graffle/data.plist -crlf -diff -merge
